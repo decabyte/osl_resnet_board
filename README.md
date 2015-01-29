@@ -1,7 +1,7 @@
 OSL ResNet Board
 ================
 
-The __OSL ResNet board__ is a small standalone single-layer pcb design for providing some external resistors networks to a single Arduino Board often used in small robotics projects. This can be used for voltage monitoring tasks for instance in battery metering projects.
+The __OSL ResNet board__ is a small standalone single-layer pcb design for providing some external resistors networks to Arduino designs often used in small robotics projects. This can be used for voltage monitoring tasks for instance in battery metering projects.
 
 ![layout_pcb](docs/resnet_board_pcb.png)
 
